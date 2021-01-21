@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+title: Manoj Kumar Yadav
+name: Manoj Kumar Yadav
 
-You can use the [editor on GitHub](https://github.com/ykmanoj/playground/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/robhinds
+ - title: Linkedin
+   url: https://www.linkedin.com/in/ykmanoj/
+#Any buzzword skills you want to include
+skills:
+ - Data Science
+ - Machine Learning/ Deep Learning/ NLP
+ - Python/ Java
+ - Pyspark/ Hadoop/ Bigdata
+ - Analytics Desgin/Architecture
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Work experience is required
+roles:
+ - title: Data Scientist
+   start: 2017
+   end: Ongoing
+   employer: Boeing
+   description: Build end to end application to solve and optimize complex business problem with innovative and advance analytical approach
 
-### Markdown
+#Education is required
+education:
+ - level: Master in Science (M.Sc.)
+   date: 2020
+   subject: Machine Learning and Artificial Intelligence
+   school: University of Liverpool John Moore University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Functional Programming Principles in Scala
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: September 16, 2013
 
-```markdown
-Syntax highlighted code block
+#List of interesting Github repo/projects to include - optional
+github:
+ - robhinds/twitter-sentiment-analysis
+ - robhinds/spring-reactor-twitter
+ - robhinds/microservices
 
-# Header 1
-## Header 2
-### Header 3
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: http://stackoverflow.com/users/258813/rhinds
+   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+About 9 years of comprehensive experience in Analytical application building using concept of Machine learning, deep learning and statistical predictive modelling with aim to optimize, automate and generate business and customer centric insights. Have working experience on complex, high volume and scalable architecture based end to end analytical, data engineering and software application development.  
 
-**Bold** and _Italic_ and `Code` text
+Key Skills & Expertise 
+•	Proficient in Machine learning, NLP, Deep Learning and Data science concept
+•	Supervised/unsupervised algorithm: Classification, Regression, Boosting, Bayesian, PCA, SVD, Cluster.
+•	Natural language processing: Semantic, NLU, Word2Vec, NER, Information extraction, Glove, Bert, FastText
+•	Deep learning: RNN, LSTM, Encoding-decoding, Synthetic data generation modelling (GAN, VAE).
+•	Programming Experience: Python, Keras, Tesnorflow, Pyspark, R, Java and Hadoop Ecosystem.
+•	Database Experience: Oracle, SQL Server, No-Sql Database Hive, Hbase  etc
+•	Project Management Tool: Git, Jira, Maven, Anaconda, Jenkins, Agile
+•	Deployment: Kubernetes, Hadoop platform, PCF, Docker
+•	Design and build scalable architecture application development.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ykmanoj/playground/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
